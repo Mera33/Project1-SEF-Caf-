@@ -477,6 +477,9 @@
     padding: 10px;
     border-radius: 10px;
     background-color:#CBB59C;
+    position: absolute;
+    left:30%;
+    z-index: 25;
 }
 .price-card::after{
     content: "";
